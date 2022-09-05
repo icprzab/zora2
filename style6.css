@@ -669,12 +669,12 @@ body {
     .section2-content2 {
         padding: 20px 0px 20px 10px;
         margin: 0px 0px 0px 0px;
-        line-height: 35px;
+        line-height: 34px;
         letter-spacing: 2.3px;
         font-weight: bold;
         text-align: left;
         position: relative;
-        font-size: 24px;
+        font-size: 23px;
         font-family: "微軟正黑體", "san-serif", "Arial", "華康細黑體";
         color: rgb(0, 0, 0);
         z-index: 1;
